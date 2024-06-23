@@ -1,2 +1,3 @@
 Увага варіант лише - Nx3224T024_011 
 ОС можна загрузити на http://goo.gl/oeClw9
+Спробуйте LeOS https://github.com/levk02011/LeOS_Nextion
